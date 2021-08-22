@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Glorious Bride Blog</title>
+        <link>https://www.gloriousbride.com/</link>
+        <description></description>
+        <image>
+            <title>Glorious Bride Blog</title>
+            <link>https://www.gloriousbride.com/</link>
+            <url>https://www.gloriousbride.com/assets/images/gloriousbride-logo-256x256.jpg</url>
+            <height>128</height>
+            <width>128</width>
+        </image>
+        <ttl>60</ttl>
+        <pubDate>Sat, 24 Jul 2021 20:01:56 +0000</pubDate>
+        <lastBuildDate>Sun, 22 Aug 2021 13:21:50 +0100</lastBuildDate>
+        <language>en</language>
+        <atom:link href="https://www.gloriousbride.com/rss.xml" rel="self" type="application/rss+xml"/>
+
+    </channel>
+</rss>
